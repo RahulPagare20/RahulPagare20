@@ -11,6 +11,11 @@ Automation, cyber-security, white hat hacking, and backend web development are s
 
 3. 2026 STEMINATE Hackathon with a team.
 
+ ![image alt](https://rahulp.pythonanywhere.com/images/codecrafters_pr.png)
+
+ 
+
+
 
 ## :sunglasses: My Ideas of Interests and some proud creations:
 1. Automation of things, however silly they may be.
@@ -29,6 +34,7 @@ Amongst many other projects ...
 - SQL
 
 ## 📫 Connect With Me
-- [GitHub: ](https://github.com/RahulPagare20)
+- [GitHub](https://github.com/RahulPagare20)
+- 
 
 ⭐️ I'm always open to collaborating on interesting projects.

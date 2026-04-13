@@ -1,5 +1,6 @@
 # Hello, there! :wave:
 
+![image alt](https://lh3.googleusercontent.com/ogw/AF2bZyj8_htFjTamvJ-C_4Mk0hXE1X3akuol_i0Q9vC1QAN2Urs=s64-c-mo)
 I'm Rahul, a grade 12th student and majorly self-taught developer with additional formal training from a 2 year course at [DebugsBunny](https://debugsbunny.com).
 Automation, cyber-security, white hat hacking, and backend web development are some of my most favorite areas of programming.
 

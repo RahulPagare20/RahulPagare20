@@ -1,12 +1,11 @@
 # Hello, there! :wave:
 
 I'm Rahul, a grade 12th student and majorly self-taught developer with additional formal training from a 2 year course at [DebugsBunny](https://debugsbunny.com).
-![image alt](https://connit.pythonanywhere.com/images/connit_pr.png)
 Automation, cyber-security, white hat hacking, and backend web development are some of my most favorite areas of programming.
 
 
 # :hammer: Currently working on:
-1. Connit, a social-media/networking website based off of Python, Flask, Jinja and Sqlite3 since 2022.
+1. Connit, a social-media/networking website based off of Python, Flask, Jinja and Sqlite3 since 2022. ![image alt](https://connit.pythonanywhere.com/images/connit_pr.png)
 2. 2026 STEMINATE Hackathon with a team.
 
 

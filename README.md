@@ -28,6 +28,7 @@ Amongst many other projects ...
 
 ## 👨‍💻 Programming Languages I know very well
 - Python (3.10+)
+- HTML5
 - CSS
 - JavaScript
 - C++

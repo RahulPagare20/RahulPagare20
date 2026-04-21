@@ -33,5 +33,3 @@ Amongst many other projects ...
 
 ## 📫 Contact Me
 - [GitHub](https://github.com/RahulPagare20)
-
-⭐️ I'm always open to collaborating on interesting projects.

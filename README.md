@@ -18,7 +18,8 @@ Automation, cyber-security, white hat hacking, and backend web development are s
 4. Created many variants of windows terminal and web based connection applications.
 5. Built nearly 20 or so android apps using [Thunkable](https://thunkable.com/).
 6. Designed multiple automation projects across diverse domains.
-Amongst many other projects ...
+
+Amongst many other projects. I've choosen NOT to make them public.
 
 ## 👨‍💻 Programming Languages I know very well
 - Python (3.10+)

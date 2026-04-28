@@ -22,7 +22,7 @@ Automation, cyber-security, white hat hacking, and backend web development are s
 Amongst many other projects. I've choosen NOT to make them public.
 
 ## 👨‍💻 Programming Languages I know very well
-- Python (3.10+)
+- Python (3.10+) :crown:
 - HTML5
 - CSS
 - JavaScript

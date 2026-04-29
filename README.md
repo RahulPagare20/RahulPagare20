@@ -13,7 +13,7 @@ Automation, cyber-security, white hat hacking, and backend web development are s
 
 ## :sunglasses: Areas of Interests & some proud creations
 1. Automation of things, however silly they may be.
-2. Self-taught security researcher. (have made many RATs, IP Loggers, DDoS apps, MIDM softwares with Python and other languages.)
+2. Self-taught security researcher. (have made many RATs, IP Loggers, DDoS apps, MIDM softwares with Python, C and other languages.)
 3. Have made a x86-64 compiled programming language specifically using linux using Python, nasm and GNU Linker (ld).
 4. Created many variants of windows terminal and web based connection applications.
 5. Built android apps using [Thunkable](https://thunkable.com/).

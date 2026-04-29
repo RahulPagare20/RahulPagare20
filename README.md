@@ -31,3 +31,4 @@ Amongst many other projects which I've chosen NOT to make them public on my gith
 
 ## 📫 Contact Me
 - [GitHub](https://github.com/RahulPagare20)
+- [LinkedIn](https://www.linkedin.com/in/rahul-pagare-685410267/)

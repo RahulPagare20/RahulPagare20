@@ -32,3 +32,4 @@ Amongst many other projects, all of which I've chosen NOT to make public on my g
 ## 📫 Contact Me
 - [GitHub](https://github.com/RahulPagare20)
 - [LinkedIn](https://www.linkedin.com/in/rahul-pagare-685410267/)
+- [Discord](https://discord.com/users/1492540849236475985)

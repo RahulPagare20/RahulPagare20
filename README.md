@@ -5,8 +5,8 @@ Automation, cyber-security, white hat hacking, and backend web development are s
 
 
 # :hammer: Currently working on
-1. Connit, a social-media/networking website based off of Python, Flask, Jinja, WSGI, Sqlite3, Google firebase database, etc. since 2022.
-2. Participating in the 2026 STEMINATE Hackathon with a team, that is.
+1. Connit, a social-media/networking website since 2022.
+2. Participating in the 2026 STEMINATE Hackathon.
  
 
 

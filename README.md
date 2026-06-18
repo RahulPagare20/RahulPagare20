@@ -3,7 +3,7 @@
 I'm Rahul, a grade 12th student and majorly self-taught developer with additional formal training from a 2 year course at [DebugsBunny](https://debugsbunny.com).
 Automation, cyber-security, white hat hacking, and backend web development are some of my most favorite areas of programming.
 
-## :sunglasses: Areas of Interests & some proud creations
+##  Areas of Interests & some proud creations
 1. Automation of things, however silly they may be.
 2. Self-taught security researcher. (have made many RATs, IP Loggers, DDoS apps, MIDM softwares with Python, C and other languages.)
 3. Have made a x86-64 compiled programming language specifically using linux using Python, nasm and GNU Linker (ld).

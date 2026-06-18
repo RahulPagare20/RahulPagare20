@@ -15,13 +15,13 @@ Automation, cyber-security, white hat hacking, and backend web development are s
 1. Automation of things, however silly they may be.
 2. Self-taught security researcher. (have made many RATs, IP Loggers, DDoS apps, MIDM softwares with Python, C and other languages.)
 3. Have made a x86-64 compiled programming language specifically using linux using Python, nasm and GNU Linker (ld).
-4. Created many variants of windows terminal and web based connection applications.
+4. Participated in the Steminate hacks 2026 (June 7 - June 14 IST)
 5. Built android apps using [Thunkable](https://thunkable.com/).
 6. Designed multiple automation projects across diverse domains.
 
 Amongst many other projects, all of which I've chosen NOT to make public on my github account.
 
-## 👨‍💻 Programming Languages I know very well
+## Programming Languages I know very well
 - Python (3.10+) :crown:
 - HTML5
 - CSS
@@ -29,7 +29,7 @@ Amongst many other projects, all of which I've chosen NOT to make public on my g
 - C++
 - SQL
 
-## 📫 Contact Me
+## You might as well contact me via:
 - [GitHub](https://github.com/RahulPagare20)
 - [LinkedIn](https://www.linkedin.com/in/rahul-pagare-685410267/)
 - [Discord](https://discord.com/users/1492540849236475985)

@@ -10,9 +10,9 @@ Automation, cyber-security, white hat hacking, and backend web development are s
 
 ## Some Projects & Experience:
 1. Custom x86-64 Compiler: Developed a compiled programming language specifically for Linux utilizing Python, NASM, and the GNU Linker (ld).
-2. Hackathon Competitor: Actively participated in [Steminate Hacks 2026.](https://devpost.com/software/memora-wtefzr). [Visit here!](https://rahulp.pythonanywhere.com)
+2. Hackathon Competitor: Actively participated in [Steminate Hacks 2026](https://devpost.com/software/memora-wtefzr). [Visit here!](https://rahulp.pythonanywhere.com)
 3. Mobile Application Prototyping: Built and deployed functional Android applications for diverse use cases.
-4. [Connit](https://corium.pythonanywhere.com/cilm/connit): Engineered a minimal social media platform focused on experimental user experience design and for providing quality feed depending upon various backgrounds - age/location/time/etc.
+4. [Connit](https://connit.pythonanywhere.com): Engineered a minimal social media platform focused on experimental user experience design and for providing quality feed depending upon various backgrounds - age/location/time/etc.
 5. [Corium](https://corium.pythonanywhere.com): A web-based intelligent link management platform featuring real-time analytics and geographic traffic routing.
 
 
